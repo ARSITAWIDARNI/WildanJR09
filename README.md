@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://wildanjr09.github.io/WildanJr/](https://wildanjr09.github.io/WildanJr/)
 
+- ❤️My Favourite Korean Idol is **Kim Jisoo**
+
 - 💬 Ask me about **Everythink i dont know**
 
 - 📫 How to reach me **mwildjrs23@gmail.com**
