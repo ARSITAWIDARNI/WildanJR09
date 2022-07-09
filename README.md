@@ -7,17 +7,17 @@
 
 - 🏫 I’m currently Study on **Sriwijaya State Polytechnic**
 
-- 🌱 I’m currently learning **Web Development**
+- 🧑‍💻 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://wildanjr09.github.io/WildanJr/](https://wildanjr09.github.io/WildanJr/)
+- 📑 Visit My Personal Website  [https://wildanjr09.github.io/WildanJr/](https://wildanjr09.github.io/WildanJr/)
 
 - ❤️My Favourite Korean Idol is **Kim Jisoo**
 
 - 💬 Ask me about **Everythink i dont know**
 
-- 📫 How to reach me **mwildjrs23@gmail.com**
+- 📫📧 How to reach me **mwildjrs23@gmail.com**
 
-- ⚡ Fun fact **I'm lazy and but also hardworking**
+- ⚡ Fun fact **I'm lazy but also hardworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
