@@ -9,9 +9,9 @@
 
 - 🧑‍💻 I’m currently learning **Web Development**
 
-- 📑 Visit My Personal Website  [https://wildanjr09.github.io/WildanJr/](https://wildanjr09.github.io/WildanJr/)
+- 📑 Visit My Personal Website  [https://wildanjr09.github.io/WildanJr/](WildanJr)
 
-- ❤️My Favourite Korean Idol is **Kim Jisoo**
+- ❤️My Favourite Korean Idol is **<a class="link" href="https://en.wikipedia.org/wiki/Jisoo">Kim Jisoo</a>**
 
 - 💬 Ask me about **Everythink i dont know**
 
