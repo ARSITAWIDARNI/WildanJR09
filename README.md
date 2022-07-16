@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildanjr09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
-- 🏫 I’m currently Study on **Sriwijaya State Polytechnic**
+- 🏫 I’m currently Study on **<a class="link" href="https://www.polsri.ac.id/">Sriwijaya State Polytechnic</a>**
 
 - 🧑‍💻 I’m currently learning **Web Development**
 
