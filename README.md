@@ -1,6 +1,6 @@
 ___
 
-![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)
+![MasterHead](https://github.com/WildanJR09/WildanJr/blob/main/img/preview.png)
 ___
 
 <h1 align="center">Hi 👋, I'm WildanJr</h1>
