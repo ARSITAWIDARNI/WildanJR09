@@ -8,7 +8,7 @@ ___
 ___
 
 
-<h3 align="center">A passionate junior developer from Indonesia</h3>
+<h3 align="center">A passionate programmer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildanjr09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
@@ -30,7 +30,6 @@ ___
 🛸　　　 　🌎　°　　🌓　•　　.°•　　　🚀 ✯
 　　　★　*　　　　　°　　　　🛰 　°·　　                           🪐
 .　　　•　° ★　•  ☄
-▁▂▃▄▅▆▇▇▆▅▄▃▁
 
 ___
 
