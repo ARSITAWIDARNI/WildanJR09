@@ -26,7 +26,6 @@ ___
 - 📫📧 How to reach me **mwildjrs23@gmail.com**
 
 - ⚡ Fun fact **I'm lazy but also hardworking**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 🛸　　　 　🌎　°　　🌓　•　　.°•　　　🚀 ✯
 　　　★　*　　　　　°　　　　🛰 　°·　　                           🪐
