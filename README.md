@@ -43,7 +43,7 @@ ___
 
 <h3 align="left">This is the programming language that I often use:</h3>
 <a href="https://github.com/WildanJR09">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanJr09&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanJr09&theme=radical&hide=" />
 </a>
 
 ___
