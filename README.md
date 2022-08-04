@@ -19,7 +19,7 @@ ___
 
 - 🧑‍💻 I’m currently learning **Web Development**
 
-- 📑 Visit My Personal Website  [Click Here!!](https://wildanjr09.github.io/WildanJr/)
+- 📑 Visit My Personal Website  [Click Here!!](https://wildanjr09.github.io/WildanJR/)
 
 - ❤️My Favourite Korean Idol is **<a class="link" href="https://en.wikipedia.org/wiki/Jisoo">Kim Jisoo</a>**
 
