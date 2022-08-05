@@ -13,7 +13,7 @@ ___
 <h3 align="center">A passionate programmer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wildanjr09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
 - 🏫 I’m currently Study on **<a class="link" href="https://www.polsri.ac.id/">Sriwijaya State Polytechnic</a>**
 
