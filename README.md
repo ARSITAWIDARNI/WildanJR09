@@ -40,6 +40,15 @@ ___
 <a href="https://instagram.com/willl.h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willl.h_" height="30" width="40" /></a>
 </p>
 
+<!-- ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> -->
+
 ___
 
 
