@@ -2,7 +2,7 @@
 
 ___
 
-![MasterHead](https://github.com/WildanJR09/WildanJr/blob/main/img/preview.png)
+/*![MasterHead](https://github.com/WildanJR09/WildanJr/blob/main/img/preview.png)*/
 ___
 
 <h1 align="center">Hi 👋, I'm WildanJr</h1>
