@@ -33,8 +33,6 @@ ___
 
 ___
 
-# <h1><a href="https://wildanjr09.github.io/WildanJR/">WildanJR</a> - Visit my portfolio</h1>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/willl.h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willl.h_" height="30" width="40" /></a>
@@ -62,13 +60,11 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanJr09&theme=radical&hide=" />
 </a>
 
-___
 
 <h3 align="left">This is my github stats:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=wildanjr09&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" /> -->
 
-___
 
 <h1 align="center">📈 Github Statistic 📊</h1>
 <p align="center">
