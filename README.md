@@ -1,5 +1,6 @@
 # WildanJR09
-============
+___
+
 <h1>Hi 👋, I'm WildanJr</h1>
 
 
@@ -20,8 +21,6 @@
 <a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p> -->
-
-___
 
 
 <h3 align="left">Languages and Tools:</h3>
