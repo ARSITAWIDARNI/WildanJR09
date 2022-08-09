@@ -13,26 +13,6 @@ ___
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
-- 🏫 I’m currently Study on **<a class="link" href="https://www.polsri.ac.id/">Sriwijaya State Polytechnic</a>**
-
-- 🧑‍💻 I’m currently learning **Web Development**
-
-- 📑 Visit My Portfolio Website  [Click Here!!](https://wildanjr09.github.io/WildanJR/)
-
-- ❤️My Favourite Korean Idol is **<a class="link" href="https://en.wikipedia.org/wiki/Jisoo">Kim Jisoo</a>**
-
-- 💬 Ask me about **Everythink i dont know**
-
-- 📫📧 How to reach me **mwildjrs23@gmail.com**
-
-- ⚡ Fun fact **I'm lazy but also hardworking**
-
-🛸　　　 　🌎　°　　🌓　•　　.°•　　　🚀 ✯
-　　　★　*　　　　　°　　　　🛰 　°·　　                           🪐
-.　　　•　° ★　•  ☄
-
-___
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/willl.h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willl.h_" height="30" width="40" /></a>
