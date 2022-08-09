@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
-A little about myself 🕵🏻‍♂️:
+A little about myself 🏻‍♂️🧑‍💻:
 - I'm currently learning Web Development!
 - I'm a univ student living in Indonesia.
 - Studying Informatics Management at Sriwijaya State Polytechnic.
