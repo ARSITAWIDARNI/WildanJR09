@@ -6,6 +6,12 @@ A little about myself 🕵🏻‍♂️:
 - I'm a univ student living in Indonesia.
 - Studying Informatics Management at Sriwijaya State Polytechnic.
 
+A little about myself 🕵🏻‍♂️:
+- Creator of SKKLUB Frontend [[SKKLUB](www.skklub.com)]
+- I'm a univ student living in South Korea.
+- Studying Global Business Administration and Software Engineering at SKKU.
+- I'm currently learning Typescript!
+
 <!-- ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p align="left">
