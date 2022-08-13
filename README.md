@@ -16,3 +16,5 @@ My Blog: https://www.notion.so/Wildan-Haikhal-Wildan-JR-ad9d347f69c44ee7a94708cf
     <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=WildanJR09&theme=radical&bg_color=000000&color=FFFFFF"/>
   </a>
 
+
+**all coding and resources available in this repository are free to use. I made a mit license just to get achievements**
