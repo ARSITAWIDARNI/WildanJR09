@@ -16,6 +16,3 @@ A little about myself 🧑‍💻:
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wildanjr09&layout=compact&langs_count=10&theme=radical&bg_color=000000"/>
     <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=WildanJR09&theme=radical&bg_color=000000&color=FFFFFF"/>
   </a> -->
-
-
-**all coding resources available in this repository are free to use. I made a mit license just to get achievements**
