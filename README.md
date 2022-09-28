@@ -4,6 +4,7 @@
 
 A little about myself 🧑‍💻:
 - I'm currently learning Web Development!
+- I am interested in learning machine learning & Python.
 - I'm a univ student living in Indonesia.
 - Studying Informatics Management at Sriwijaya State Polytechnic.
 
