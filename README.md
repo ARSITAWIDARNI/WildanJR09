@@ -4,7 +4,7 @@
 
 A little about myself 🧑‍💻:
 - I'm currently learning Web Development!
-- I am interested in learning deep learning & Python.
+- I am interested in machine learning, deep learning & Python.
 - I'm a univ student living in Indonesia.
 - Studying Informatics Management at Sriwijaya State Polytechnic.
 
