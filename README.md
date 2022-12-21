@@ -3,10 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
 A little about myself 🧑‍💻:
-- I'm currently learning Web Development!
-- I am interested in machine learning, deep learning & Python.
-- I'm a univ student living in Indonesia.
-- Studying Informatics Management at Sriwijaya State Polytechnic.
+- I'm currently learning IT Support🧑‍💻!
+- I am interested in machine learning, deep learning & AI🤖.
 
 
 <!-- My Blog: https://www.notion.so/Wildan-Haikhal-Wildan-JR-ad9d347f69c44ee7a94708cf223c7ab8
