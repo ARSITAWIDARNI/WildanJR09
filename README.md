@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
 A little about myself 🧑‍💻:
-- I'm currently learning IT Support🧑‍💻!
+- I'm currently learning Machine Learning🧑‍💻!
 - I am interested in machine learning, deep learning & AI🤖.
 
 
