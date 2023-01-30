@@ -1,17 +1,48 @@
-# WildanJR09
+### Hello! I’m Moh Wildan Haikhal✨
+<p dir="auto">
+      <animated-image data-catalyst="">
+            <a href="#" rel="nofollow" data-target="#" hidden="">
+                  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden="">
+            </a>
+            <span class="AnimatedImagePlayer" data-target="animated-image.player">
+              <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="#"></a>
+            </span>
+      </animated-image>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
-A little about myself 🧑‍💻:
-- I'm currently learning Machine Learning🧑‍💻!
-- I am interested in machine learning, deep learning & AI🤖.
+A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Palembang, Indonesia🧑‍💻</b>.
+- 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/moh-wildan-haikhal/" target="_blank">LinkedIn</a>
+- 🤖 Passionate to learn about AI especially Machine Learning
+- Visit my personal website [here](https://portfolio-wildan.vercel.app/)
 
 
-<!-- My Blog: https://www.notion.so/Wildan-Haikhal-Wildan-JR-ad9d347f69c44ee7a94708cf223c7ab8
+<h3>👨‍💻 Tech Stack & Tools</h3>
+- Experienced in : 
+  <p></p>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flate&logo=jquery&logoColor=white"/>
+    <img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23181717.svg?style=flat&logo=bootstrap&logoColor=blue)">
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/>
+    <img alt="Google CLoud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+"/>
+    <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+    <img alt="TensorFLow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </p>
+</p>
 
-<p align="center">
-  <a href="https://github.com/wildanjr09">
-    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wildanjr09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wildanjr09&layout=compact&langs_count=10&theme=radical&bg_color=000000"/>
-    <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=WildanJR09&theme=radical&bg_color=000000&color=FFFFFF"/>
-  </a> -->
+<!-- Updated on 30 January 2023 --!>
