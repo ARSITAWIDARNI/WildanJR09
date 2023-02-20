@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
-A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Palembang, Indonesia🧑‍💻</b>.
+A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia🧑‍💻</b>.
 - 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/moh-wildan-haikhal/" target="_blank">LinkedIn</a>
 - 🤖 Passionate to learn about AI especially Machine Learning and Deep Learning
 - Visit my personal website [here](https://portfolio-wildan.vercel.app/)
