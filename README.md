@@ -50,10 +50,13 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
   </p>
 </p>
 
-<h3>📞📬 Stay in touch</h3>
-<p>
-  <a href="https://www.linkedin.com/in/moh-wildan-haikhal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/willl.h_/"><img alt="Stack Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<h3 align="left">📞📬 Stay in touch</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/moh-wildan-haikhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh wildan haikhal" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/wildanhaikhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wildan haikhal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/willl.h_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willl.h_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mwildjrs23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mwildjrs23" height="30" width="40" /></a>
+  <a href="https://leetcode.com/mwildjrs23/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mwildjrs23" height="30" width="30" /></a>
 </p>
 
 <!-- Updated on 4 Febuary 2023 --!>
