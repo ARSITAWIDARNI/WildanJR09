@@ -70,10 +70,11 @@
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/WildanJR09)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/WildanJR09)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/WildanJR09)
+[![Google Cloud Platform](https://img.shields.io/badge/googlecloud-black?style=for-the-badge&logo=googleclodud)](https://github.com/WildanJR09)
 
 ## IDE
 [![vscode](https://img.shields.io/badge/visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/WildanJR09)
-[![Colab](https://img.shields.io/badge/colab-black?style=for-the-badge&logo=colab)](https://github.com/WildanJR09)
+[![Colab](https://img.shields.io/badge/colab-black?style=for-the-badge&logo=googlecolab)](https://github.com/WildanJR09)
 [![Pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://github.com/WildanJR09)
 
 ### OS
