@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/moh-wildan-haikhal/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="[https://www.linkedin.com/in/moh-wildan-haikhal/](https://www.instagram.com/willl.h_/)">
+    <a href="https://www.instagram.com/willl.h_/">
         <img src="https://img.shields.io/badge/instagram-blue?style=flat-square&logo=instagram" alt="Instagram">
     </a>
     <a href="https://www.kaggle.com/wildanhaikhal">
@@ -38,7 +38,6 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WildanJR09)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WildanJR09)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/WildanJR09)
-[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/WildanJR09)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WildanJR09)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/WildanJR09)
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/WildanJR09)
@@ -78,8 +77,8 @@
 [![Pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://github.com/WildanJR09)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/WildanJR09)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/WildanJR09)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WildanJR09&label=Profile%20views&color=0e75b6&style=flat" alt="wildanjr09" /> </p>
 
