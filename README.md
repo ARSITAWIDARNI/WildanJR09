@@ -72,7 +72,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/WildanJR09)
 
 ## IDE
-[![vscode](https://img.shields.io/badge/visual-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/WildanJR09)
+[![vscode](https://img.shields.io/badge/visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/WildanJR09)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
