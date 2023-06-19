@@ -73,6 +73,8 @@
 
 ## IDE
 [![vscode](https://img.shields.io/badge/visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/WildanJR09)
+[![Colab](https://img.shields.io/badge/colab-black?style=for-the-badge&logo=colab)](https://github.com/WildanJR09)
+[![Pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://github.com/WildanJR09)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
