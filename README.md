@@ -17,6 +17,14 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 - 🤖 Passionate to learn about AI especially Machine Learning and Deep Learning
 - Visit my personal website [here](https://portfolio-wildan.vercel.app/)
 
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WildanJR09)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WildanJR09)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/WildanJR09)
+[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/WildanJR09)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WildanJR09)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/WildanJR09)
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/WildanJR09)
 
 <h3>👨‍💻 Tech Stack & Tools</h3>
 - Experienced in : 
