@@ -70,7 +70,7 @@
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/WildanJR09)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/WildanJR09)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/WildanJR09)
-[![Google Cloud Platform](https://img.shields.io/badge/googlecloud-black?style=for-the-badge&logo=googleclodud)](https://github.com/WildanJR09)
+[![Google Cloud](https://img.shields.io/badge/googlecloud-black?style=for-the-badge&logo=googlecloud)](https://github.com/WildanJR09)
 
 ## IDE
 [![vscode](https://img.shields.io/badge/visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/WildanJR09)
