@@ -40,8 +40,8 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-[![Tailwind](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/wervlad)
-[![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind)](https://hub.docker.com/u/wervlad)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/wervlad)
+[![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://hub.docker.com/u/wervlad)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 [![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/wervlad)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/wervlad)
