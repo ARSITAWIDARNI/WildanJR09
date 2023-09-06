@@ -18,19 +18,19 @@
         Improving people's lives and helping more people through skills I learned is why I keep learning and making progress every day.<br>
             Not looking for a stable life, what I pursue is a life full of challenges, learning, and changing.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/moh-wildan-haikhal/">
+    <a href="https://www.linkedin.com/in/moh-wildan-haikhal/" target='_blank'>
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/willl.h_/">
+    <a href="https://www.instagram.com/willl.h_/" target='_blank'>
         <img src="https://img.shields.io/badge/instagram-blue?style=flat-square&logo=instagram" alt="Instagram">
     </a>
-    <a href="https://www.kaggle.com/wildanhaikhal">
+    <a href="https://www.kaggle.com/wildanhaikhal" target='_blank'>
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
-    <a href="https://leetcode.com/mwildjrs23/">
+    <a href="https://leetcode.com/mwildjrs23/" target='_blank'>
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
-    <a href="https://www.hackerrank.com/mwildjrs23">
+    <a href="https://www.hackerrank.com/mwildjrs23" target='_blank'>
         <img src="https://img.shields.io/badge/hackerrank-blue?style=flat-square&logo=hackerrank" alt="Hackerrank">
     </a>
 
